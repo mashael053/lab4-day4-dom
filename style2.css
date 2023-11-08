@@ -1,0 +1,7 @@
+
+.style-number {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto;
+	width: 1px; 
+   
+}
